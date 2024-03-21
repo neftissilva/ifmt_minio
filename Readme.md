@@ -20,7 +20,7 @@
 | MinIO | Kubernetes| Docker | Kind | Quarkus |
 |:------:|:-----:|:-----:|:-----:|:-----:|
 [<img width="120" height="100" alt="MinIO" src="https://landscape.cncf.io/logos/da1f6718a1f3fb1815a7121a6c4a415ce2aa676812a781d0554ef452fbd83ba4.svg">](https://landscape.cncf.io/?item=runtime--cloud-native-storage--minio) | [<img width="120" height="100" alt="kubernetes" src="https://landscape.cncf.io/logos/e0303fdc381c96c1b4461ad1a2437c8f050cfb856fcb8710c9104367ca60f316.svg">](https://landscape.cncf.io/?item=orchestration-management--scheduling-orchestration--kubernetes) | [<img width="120" height="100" alt="docker" src="https://landscape.cncf.io/logos/ed44d795485baf780b56be5d2e56e72a057381f6bde73c0dea402e70f48e4cba.svg">](https://landscape.cncf.io/?item=app-definition-and-development--application-definition-image-build--docker-compose) | [<img width="120" height="100" alt="kind" src="https://landscape.cncf.io/logos/09c21e3114167cadc5a7eb40895d3262c1d2c369ba858b973b5e4455c04888b3.svg">](https://landscape.cncf.io/?item=platform--certified-kubernetes-installer--kind) | [<img width="120" height="100" alt="quarkus" src="https://landscape.cncf.io/logos/33d16185b53fd52b4eb7dfa2377ef9297bceb308356afb879f05790e24c7a4a0.svg">](https://landscape.cncf.io/?item=app-definition-and-development--application-definition-image-build--quarkus) |
-|  |  |  |  |  |
+
 
 </div>
 
